@@ -4,7 +4,7 @@
 
 ⚡ Test Automation Experience: Web Testing and Automation ,Mobil Testing and Automation, API Testing and Automation
 
-Language Experience: Java, Javascript
+Language Experience: Java, Python, Javascript
 
 Test Tools : Selenium, Appium, Selenium Webdriver, Jenkins
 
