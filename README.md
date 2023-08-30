@@ -11,3 +11,5 @@ Test Tools : Selenium, Appium, Selenium Webdriver, Jenkins
 Test Build Tools: Maven, Gradle 
 
 Software Platform : Docker
+
+SDLC : Agile, Waterfall
